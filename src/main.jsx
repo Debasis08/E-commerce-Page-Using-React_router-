@@ -10,7 +10,7 @@ import Contact from './Components/Contact/Contact'
 import User from './Components/User/User'
 import Github, { githubInfoLoader } from './Components/Github/Github'
 
-// const router = createBrowserRouter ([
+// const router = createBrowserRouter ([  //This is another option to execute the code 
 //   {
 //     path: '/',
 //     element: <Layout />,
